@@ -1,4 +1,10 @@
-/* custom JS goes here */
+/*
+File: app.js
+Student's Name: Rayyan Mohsin
+StudentID: 301270163
+Date: June 25, 2023
+Web App name: Favourite Book List
+*/ 
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
 $.fn.pageMe = function(opts){

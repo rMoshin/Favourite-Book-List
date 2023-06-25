@@ -1,3 +1,12 @@
+
+/*
+File: styles.css
+Student's Name: Rayyan Mohsin
+StudentID: 301270163
+Date: June 25, 2023
+Web App name: Favourite Book List
+*/ 
+
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');

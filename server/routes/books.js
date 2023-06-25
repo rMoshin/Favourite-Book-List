@@ -1,3 +1,12 @@
+
+/*
+File: styles.css
+Student's Name: Rayyan Mohsin
+StudentID: 301270163
+Date: June 25, 2023
+Web App name: Favourite Book List
+*/ 
+
 // modules required for routing
 const express = require('express');
 const router = express.Router();
